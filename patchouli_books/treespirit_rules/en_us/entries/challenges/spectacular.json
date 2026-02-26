@@ -1,0 +1,18 @@
+{
+    "name": "A Spectacular Find",
+    "category": "patchouli:challenges",
+    "icon": "minecraft:deepslate_coal_ore",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "title": "A Spectacular Find",
+            "text": "Connect Deepslate Coal Ore to your Heart Tree."
+        },
+        {
+            "title": "Reward",
+            "type": "patchouli:spotlight",
+            "item": "minecraft:birch_sapling",
+            "text": "Gain a birch sapling. It counts as a descendant of your heart log. You still cannot absorb other birch trees. (Craft them into planks to avoid accidental placement)$(br)$(br)All deepslate coal ore blocks connected to your heart log now count as valid connection blocks."
+        }
+    ]
+}

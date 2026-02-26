@@ -1,0 +1,8 @@
+{
+	"name": "Tree Spirit Rules",
+	"landing_text": "You awoke with a small collection of books, the strangest of which with a image of a beak on the cover. If you have any chance to find out what's going on, you'll need to read closely.",
+	"version": 1,
+	"model": "kubejs:docbook",
+	"subtitle": "The only clue you have",
+	"creative_tab": "minecraft:ingredients"
+}

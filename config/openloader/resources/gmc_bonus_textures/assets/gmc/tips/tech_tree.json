@@ -1,0 +1,11 @@
+{
+    "title": {
+      "text": "Asunder Tip",
+      "bold": true,
+      "underlined": true,
+      "color": "red"
+    },
+    "tip": {
+      "text": "The barrier between the Overworld and the Nether is weak. Getting to The End is a different matter altogether."
+    }
+  }

@@ -1,0 +1,53 @@
+{
+    "name": "Mod Highlights",
+    "icon": "quark:stone_brick_lamp",
+    "category": "patchouli:information",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "vanity:styling_table",
+            "text": "Using Vanity, you can change the model for your tools.",
+            "title": "Vanity"
+        },
+        {
+            "type" : "patchouli:spotlight",
+            "item" : "botania:lexicon",
+            "title": "Botania",
+            "text": "Botania is our tech mod. The guidebook is already in your Akashic Tome."
+        },
+        {
+            "type" : "patchouli:spotlight",
+            "item" : "apotheosis:gem_dust",
+            "title": "Apotheosis",
+            "text": "Apotheosis redoes enchantments and adds new loot to the world. The guidebook is already in your Akashic Tome."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "irons_spellbooks:copper_spell_book",
+            "text": "Iron's Spellbooks adds spellcasting! The guidebook is already in your Akashic Tome.",
+            "title": "Iron's Spellbooks"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "via_romana:charting_map",
+            "text": "Via Romana is our fast travel mod. Check the modrinth page for more details. The logs in our hearttree are valid paths.",
+            "title": "Via Romana"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "farmersdelight:cooking_pot",
+            "text": "Farmer's Delight adds more cooking mechanics if you like that sort of thing.",
+            "title": "Farmer's Delight"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Antique Atlas",
+            "text": "Press 'M' to open your map. Enter the command '/surveyor share [player]' to share your map with another player. The resource packs for mods should all be configured, if they aren't then you will need to enable them in the resource pack menu."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Occulus",
+            "text": "There are shaders installed if you like that sort of thing."
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Traveller",
+    "category": "patchouli:challenges",
+    "icon": "via_romana:charting_map",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "title": "Traveller",
+            "text": "Add two different villages to a Via Romana route. Your tree must be connected to both villages."
+        },
+        {
+            "title": "Reward",
+            "type": "patchouli:spotlight",
+            "item": "minecraft:acacia_sapling",
+            "text": "Gain an acacia sapling. It counts as a descendant of your heart log. You still cannot absorb other acacia trees. (Craft them into planks to avoid accidental placement)"
+        }
+    ]
+}

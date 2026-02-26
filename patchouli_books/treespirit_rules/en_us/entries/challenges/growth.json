@@ -1,0 +1,18 @@
+{
+    "name": "I am the Growing",
+    "category": "patchouli:challenges",
+    "icon": "botania:lens_mine",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "title": "I am the Growing",
+            "text": "Use Botania and/or Quark to automate log and/or leaf harvesting from your tree."
+        },
+        {
+            "title": "Reward",
+            "type": "patchouli:spotlight",
+            "item": "botania:livingwood_log",
+            "text": "All livingstone blocks, Livingwood Log blocks, and livingwood furniture (but not planks) count as part of your tree. They are descendants of your heart log, no matter which tree they originally came from."
+        }
+    ]
+}

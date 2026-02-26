@@ -1,0 +1,41 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Golden_Flame0",
+      "uniqueId": "1083fa38-cd27-4ef2-9bc8-8ad4a171bdd2"
+    },
+    "time": 1768819656079,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/d5HWxZ4mXn"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Golden_Flame0",
+      "uniqueId": "1083fa38-cd27-4ef2-9bc8-8ad4a171bdd2"
+    },
+    "time": 1768819398845,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/BuxnJwyNLa"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Golden_Flame0",
+      "uniqueId": "1083fa38-cd27-4ef2-9bc8-8ad4a171bdd2"
+    },
+    "time": 1768819283506,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/hc9deLcQMX"
+    }
+  }
+]

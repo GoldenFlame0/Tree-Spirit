@@ -1,0 +1,18 @@
+{
+    "name": "Royalty",
+    "category": "patchouli:challenges",
+    "icon": "simplehats:crown",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "title": "Royalty",
+            "text": "Defeat two bosses. (Bosses have a HP bar that appear at the top of the screen. Mowzie's Mobs and Botania add new bosses.)"
+        },
+        {
+            "title": "Reward",
+            "type": "patchouli:spotlight",
+            "item": "biomeswevegone:mahogany_sapling",
+            "text": "Gain a mahogany sapling. It counts as a descendant of your heart log. Its vines count as part of your tree. You still cannot absorb other mahogany trees. (Craft it into planks to avoid accidental placement)"
+        }
+    ]
+}

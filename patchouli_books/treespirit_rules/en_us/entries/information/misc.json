@@ -1,0 +1,12 @@
+{
+    "name": "Miscellaneous Tips",
+    "category": "patchouli:information",
+    "icon": "minecraft:book",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:creeper",
+            "text": "Creepers have a new texture :3"
+        }
+    ]
+}

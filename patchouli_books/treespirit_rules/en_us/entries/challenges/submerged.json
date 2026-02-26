@@ -1,0 +1,17 @@
+{
+    "name": "Submerged",
+    "category": "patchouli:challenges",
+    "icon": "minecraft:heart_of_the_sea",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "title": "Submerged",
+            "text": "Create a complete conduit and have its effects be in range of the Heart Log."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Reward",
+            "text": "The wander radius is increased by 1 block.$(br)$(br)Complete conduits now count as part of your tree, like with portals, if the frame connects to it."
+        }
+    ]
+}

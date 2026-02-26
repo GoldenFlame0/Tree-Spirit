@@ -1,0 +1,11 @@
+{
+    "title": {
+      "text": "Asunder Tip",
+      "bold": true,
+      "underlined": true,
+      "color": "red"
+    },
+    "tip": {
+      "text": "You can use dirt paths to help villagers find their way between buildings."
+    }
+  }

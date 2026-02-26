@@ -1,0 +1,11 @@
+{
+    "title": {
+      "text": "Asunder Tip",
+      "bold": true,
+      "underlined": true,
+      "color": "red"
+    },
+    "tip": {
+      "text": "Villagers, piglins, and hoglins can be infected by zombie mobs with a single touch."
+    }
+  }

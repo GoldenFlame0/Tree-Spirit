@@ -1,0 +1,18 @@
+{
+    "name": "Death",
+    "icon": "minecraft:skeleton_skull",
+    "category": "patchouli:treespirit",
+    "pages": [
+        "Death is not the end in Tree Spirit. Indeed, since your soul is bound to your heart log, you will always respawn while it is present.",
+        {
+            "type" : "patchouli:spotlight",
+            "item" : "gravestone:gravestone",
+            "text" : "When you die, a gravestone will appear, which holds all of your items. You will resume the challenge once you have broken your grave."
+        },
+        "The heart log knows when it is in danger. When you break your gravestone, a clone of you at the time of death will appear for a short while to help defend the tree.",
+        {
+            "type" : "patchouli:image",
+            "images" : ["gmc:textures/death_clones.png"]
+        }
+    ]
+}

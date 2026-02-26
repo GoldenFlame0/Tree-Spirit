@@ -1,0 +1,18 @@
+{
+    "name": "Canopy",
+    "category": "patchouli:challenges",
+    "icon": "minecraft:oak_leaves",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "title": "Canopy",
+            "text": "Create an area of heartlog-connected leaves above Y level 200 that cover twelve chunks. (Chunks are 16x16 blocks. You'll need 48 stacks, or 3074 leaves.)"
+        },
+        {
+            "title": "Reward",
+            "type": "patchouli:spotlight",
+            "item": "biomeswevegone:redwood_sapling",
+            "text": "The entire chunk your heart log is in counts as being in your wander radius.$(br)$(br)Gain four redwood saplings. They count as descendants of your heart log. You still cannot absorb other redwood trees."
+        }
+    ]
+}

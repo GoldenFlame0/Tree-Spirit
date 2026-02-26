@@ -1,0 +1,18 @@
+{
+    "name": "Human Rights",
+    "category": "patchouli:challenges",
+    "icon": "biomeswevegone:skyris_sapling",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "title": "Human Rights",
+            "text": "Make any pride flag out of valid tree blocks (logs/leaves) and have it connect back to your heart log.$(br)$(br)You will need to complete other challenges to get the required blocks."
+        },
+        {
+            "title": "Reward",
+            "type": "patchouli:spotlight",
+            "item": "biomeswevegone:skyris_sapling",
+            "text": "Gain a skyris sapling. It counts as a descendant of your heart log. Its vines count as part of your tree. You still cannot absorb other skyris trees. (Craft it into planks to avoid accidental placement)$(br)$(br)The wander radius is increased by 1 block."
+        }
+    ]
+}

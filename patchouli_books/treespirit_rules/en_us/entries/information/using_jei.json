@@ -1,0 +1,15 @@
+{
+    "name": "Using JEI",
+    "icon": "minecraft:crafting_table",
+    "category": "patchouli:information",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "JEI, or \"Just Enough Items\" is a mod you can use to quickly look up items.$(br) In your inventory, use the search bar in the bottom-left to search for items. Hover over an item in either the search pane (left) or in your inventory and press \"R\" to see the Recipie or \"U\" to find the use for the item."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "JEI is always correct with its crafting recipes, so if a recipe in a book isn't working, look it up in JEI."
+        }
+    ]
+}

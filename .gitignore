@@ -34,3 +34,6 @@ profile.json
 
 /Distant_Horizons_server_data
 ears-debug.log
+local/kubejs/dev.properties
+data/fabricDefaultResourcePacks.dat
+data/surveyor/*

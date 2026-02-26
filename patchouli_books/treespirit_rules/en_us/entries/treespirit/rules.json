@@ -1,0 +1,50 @@
+{
+    "name": "Game Rules",
+    "icon": "minecraft:oak_sapling",
+    "category": "patchouli:treespirit",
+    "pages": [
+        {
+            "type" : "patchouli:spotlight",
+            "item" : "minecraft:oak_sapling",
+            "title": "The Heart Sapling",
+            "text" : "The players start with a single sapling. They must plant it, make it grow, and cut all but the last log down.$(br)This final log is your tree's heart, and you must never leave it. If a player leaves the heart log for more than three (3) seconds, they must $(#E00)/kill$()."
+        },
+        {
+            "type" : "patchouli:image",
+            "images" : ["gmc:textures/player-placement.png"],
+            "border" : true,
+            "text" : "One or both parts of a player's model must stay within a 9x9 cube of the heart log. This area is called the 'Wander Radius'."
+        },
+        "You can expand the reach of your tree by placing Log blocks, Stripped Log blocks, and Leaf blocks that come from the original tree and its descendant saplings. To expand the range of the tree, and therefore where you can stand, these new blocks must have touching faces. You may pick up and replace your growing roots and branches, although the reach is only expanded if the chain is unbroken.",
+        {
+            "type" : "patchouli:image",
+            "images" : ["gmc:textures/log-placement.png"],
+            "border" : true,
+            "text" : "The green logs are connected to the brown heart log. The red logs are not."
+        },
+        "The roots/branches of your tree can be linked up to portals. If a single block of a portal is connected to your tree network, then all of its blocks on both sides of the portal count as being part of your tree - both the frame and the portal itself. Yes, this includes the optional corners.",
+        {
+            "type" : "patchouli:image",
+            "images" : ["gmc:textures/portals.png"],
+            "border" : true,
+            "text" : "The roots of the tree incorporate interdimensional portals."
+        },
+        {
+            "type" : "patchouli:text",
+            "title": "Losing",
+            "text" : "If the heart log is destroyed in any way - explosions, fire, careless mining - the challenge has been lost. You must balance protecting your tree's heart with continuing through the game."
+        },
+        {
+            "type" : "patchouli:spotlight",
+            "title": "Winning",
+            "item" : "alexsmobs:void_worm_effigy",
+            "text" : "To win the modpack, you must put a Void Worm Effigy on top of your Heart Log. Do note that End Remastered is in the pack - you need twelve different Ender Eyes to reach The End and defeat the Ender Dragon, and the Ender Dragon is a prerequisite for the Void Worm."
+        },
+        {
+            "type" : "patchouli:text",
+            "title": "Misc Rules",
+            "text" : "Tree roots will always re-connect to the heart log, even if they are picked up or intermediate ones are destroyed.$(br)$(br)The 3 seconds before killing operates on coyote time.$(br)$(br)Blocks from trees not descendent from the heart sapling do not count towards your tree's reach."
+        },
+        "Challenges may permit you to 'graft' a sapling and its descednant blocks/items onto your tree."
+    ]
+}

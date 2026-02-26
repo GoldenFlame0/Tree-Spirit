@@ -1,0 +1,17 @@
+{
+    "name": "Goshinboku",
+    "category": "patchouli:challenges",
+    "icon": "quark:paper_lantern_sakura",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "title": "Goshinboku",
+            "text": "Have your heart block surrounded by a minimum radius 7 circle of connected logs that reaches at least twenty-five blocks tall.$(br)$(br)You are allowed gaps for doors, windows, etc."
+        },
+        {
+            "title": "Reward",
+            "type": "patchouli:text",
+            "text": "Gain a Cherry Sapling, a Yellow Sakura Sapling, and a White Sakura Sapling. They count as descendants of your heart log. You still cannot absorb other trees. (Craft them into planks to avoid accidental placement)."
+        }
+    ]
+}

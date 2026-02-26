@@ -1,0 +1,31 @@
+{
+    "name": "About Tree Spirit",
+    "icon": "quark:paper_wall_sakura",
+    "category": "patchouli:treespirit",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Tree Spirit is an old Minecraft challenge created by Minecraft Forum user Cthulhu725 in 2011. It was subsequently signal boosted by former moderator Lilariel five days later. This text is taken from that second forum post and adapted in some parts."
+        },
+        {
+            "type": "text",
+            "text": "Not all trees have a spirit to watch over them, many die to old age, drought or flood, disease or flames, and many other (un)natural causes. But some trees, do have a guardian spirit, they are blessed by your presence. You shall make it grow and prosper, spread your roots far and wide, eventually shadow over all the other trees and become a monument in itself."
+        },
+        {
+            "type": "text",
+            "text": "In this challenge you take on the role of a trees very essence. You will become a dryad, a tree spirit, a tree's $(#0D0)kami$(). It has many names, but common to them all is this: They can never leave the tree, and if the tree dies, so does its spirits. And just as a tree's reach is limited by the height of it's branches and it's length of it's roots, so is a tree spirit limited."
+        },
+        {
+            "type": "text",
+            "text": "You will become an extension of the tree, just as it becomes an extension of you. The spirit will direct the growth of the tree, digging roots to valuable minerals and precious water, branching out to bask in the sun."
+        },
+        {
+            "type": "text",
+            "text": "But remember, you are not alone in this world, the tree spirit can never rest. It must protect it's tree from all things. The darkness brings nests of spiders, the extremely dangerous Creepers, maybe even other tree spirits - everything is a potential threat. Even when they are gone, a single spark of flame can reduce a spirit to ash, and sometimes even the sky itself will try to erase your very existence."
+        },
+        {
+            "type": "text",
+            "text": "How will you survive?"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Yggdrasil",
+    "category": "patchouli:challenges",
+    "icon": "minecraft:bedrock",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "title": "Yggdrasil",
+            "text": "Connect both the +Y and -Y build limits with your tree. You can be one or two blocks off the lower build limit, but try to be as close as possible, and it must touch bedrock."
+        },
+        {
+            "title": "Reward",
+            "type": "patchouli:spotlight",
+            "item": "quark:ancient_sapling",
+            "text": "Gain an ashen sapling. It counts as a descendant of your heart log. You still cannot absorb other ashen trees. (Craft them into planks to avoid accidental placement)"
+        }
+    ]
+}

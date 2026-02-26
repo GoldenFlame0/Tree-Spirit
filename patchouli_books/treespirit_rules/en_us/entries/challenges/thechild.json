@@ -1,0 +1,17 @@
+{
+    "name": "The Child",
+    "category": "patchouli:challenges",
+    "icon": "minecraft:dragon_egg",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "title": "The Child",
+            "text": "Place the Dragon Egg on top of your Heart Log.$(br)$(br)You may move it after this challenge is complete."
+        },
+        {
+            "title": "Reward",
+            "type": "patchouli:text",
+            "text": "The wander radius is increased by 1 block.$(br)$(br)The time to die after leaving the wander radius is increased to ten seconds."
+        }
+    ]
+}

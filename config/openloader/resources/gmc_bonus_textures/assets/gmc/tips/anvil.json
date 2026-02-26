@@ -1,0 +1,11 @@
+{
+    "title": {
+      "text": "Asunder Tip",
+      "bold": true,
+      "underlined": true,
+      "color": "red"
+    },
+    "tip": {
+      "text": "Runes and Enchanted Books can be applied using an Anvil. Gems and Netherite Ingots can be applied using a Smithing Table."
+    }
+}
