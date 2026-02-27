@@ -345,6 +345,9 @@
 			banister = true
 			hollow_log_climbable = true
 
+		[entries.wood_type.copperagebackport]
+			shelf = true
+
 	[entries.leaves_type]
 
 		[entries.leaves_type.quark]

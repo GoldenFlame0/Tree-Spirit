@@ -37,3 +37,4 @@ ears-debug.log
 local/kubejs/dev.properties
 data/fabricDefaultResourcePacks.dat
 data/surveyor/*
+config/jei/world/local/*
