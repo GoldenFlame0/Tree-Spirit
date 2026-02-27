@@ -3,6 +3,10 @@
 Added:
 - Cosy Critters & Creepy Crawlies
 - Savage & Ravage
+- Smooth Swapping
+
+Changed:
+- Fixed line in the tree spirit rules.
 
 Updated:
 - AttributeFix
@@ -31,6 +35,8 @@ Updated:
 - Platform
 - Sinytra Connector
 - Twilight's Flavor & Delight
+
+SimpleHats is explicitly not being updated because it swaps out curios for another similar mod and I don't like that.
 
 # version 1.1.0
 

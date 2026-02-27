@@ -13,7 +13,7 @@
             "type" : "patchouli:image",
             "images" : ["gmc:textures/player-placement.png"],
             "border" : true,
-            "text" : "One or both parts of a player's model must stay within a 9x9 cube of the heart log. This area is called the 'Wander Radius'."
+            "text" : "The player's model must partially stay within a 3x3 cube around the heart log. This area is called the 'Wander Radius'."
         },
         "You can expand the reach of your tree by placing Log blocks, Stripped Log blocks, and Leaf blocks that come from the original tree and its descendant saplings. To expand the range of the tree, and therefore where you can stand, these new blocks must have touching faces. You may pick up and replace your growing roots and branches, although the reach is only expanded if the chain is unbroken.",
         {
