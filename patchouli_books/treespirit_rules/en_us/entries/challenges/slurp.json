@@ -1,0 +1,17 @@
+{
+    "name": "sluuuurrrpp",
+    "category": "patchouli:challenges",
+    "icon": "minecraft:lava_bucket",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "title": "Royalty",
+            "text": "Within the nether, have a root extend to the bottom of a large lava lake. It must go at least four blocks deep.$(br)$(br)You will need to complete the 'Fungal Traveller' challenge to get the required block."
+        },
+        {
+            "title": "Reward",
+            "text": "The wander radius is increased by 1 block.",
+            "type": "patchouli:text"
+        }
+    ]
+}

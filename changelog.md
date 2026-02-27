@@ -4,6 +4,10 @@ Added:
 - Cosy Critters & Creepy Crawlies
 - Savage & Ravage
 - Smooth Swapping
+- Three new challenges - two for new wood types, one for an increased wander radius
+    - Cool Damp Place
+    - Fungal Travel
+    - Sluuurp
 
 Changed:
 - Fixed line in the tree spirit rules.
