@@ -11,6 +11,8 @@ Added:
 - Player Locator Reforged
     - This and Copper Age Backport will probably be dropped for Vanilla Backport in future, VB just doesn't cover both yet.
 - Ore Discovery Broadcast
+- Abnormal's Delight
+- Youkai's Homecoming
 
 Changed:
 - Fixed line in the tree spirit rules.

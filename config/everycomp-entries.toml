@@ -275,6 +275,9 @@
 			phytochemical_cake = true
 			glacier_cake = true
 
+		[types.cake.youkaishomecoming]
+			red_velvet_cake = true
+
 #Disables specific entries
 [entries]
 
@@ -347,6 +350,11 @@
 
 		[entries.wood_type.copperagebackport]
 			shelf = true
+
+		[entries.wood_type.youkaishomecoming]
+			dining_chair = true
+			dining_table = true
+			handrail = true
 
 	[entries.leaves_type]
 
