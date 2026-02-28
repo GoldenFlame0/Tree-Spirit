@@ -12,7 +12,7 @@
             "title": "Reward",
             "type": "patchouli:spotlight",
             "item": "minecraft:red_mushroom",
-            "text": "Gain a red mushroom. It counts as a descendant of your heart log, (with the red mushroom block counting as leaves). Unlike other wood types, mushroom furniture made from these descendants count as part of your heart tree. (You still cannot absorb other mushrooms into your tree.)"
+            "text": "Gain a red mushroom. It counts as a descendant of your heart log, (with the red mushroom block counting as leaves). Unlike other wood types, mushroom furniture (but not planks) made from these descendants count as part of your heart tree. (You still cannot absorb other mushrooms into your tree.)"
         }
     ]
 }

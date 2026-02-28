@@ -12,7 +12,7 @@
             "title": "Reward",
             "type": "patchouli:spotlight",
             "item": "minecraft:warped_fungus",
-            "text": "Gain a warped fungus. It counts as a descendant of your heart log. Unlike other wood types, warped furniture made from these descendants count as part of your heart tree. (You still cannot absorb other mushrooms into your tree.)"
+            "text": "Gain a warped fungus. It counts as a descendant of your heart log, and its warped wart blocks count as leaves. Unlike other wood types, warped furniture (but not planks) made from these descendants count as part of your heart tree. (You still cannot absorb other mushrooms into your tree.)"
         }
     ]
 }
