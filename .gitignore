@@ -38,3 +38,23 @@ local/kubejs/dev.properties
 data/fabricDefaultResourcePacks.dat
 data/surveyor/*
 config/jei/world/local/*
+*lookupHistory.ini
+
+# server files
+.cache/
+.forge-manifest.json
+.local
+.rcon-cli.env
+.rcon-cli.yaml
+banned-ips.json
+banned-players.json
+eula.txt
+libraries/
+ops.json
+run.bat
+run.sh
+server-icon.png
+server.properties
+user_jvm_args.txt
+whitelist.json
+/world*
