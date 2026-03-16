@@ -58,3 +58,4 @@ server.properties
 user_jvm_args.txt
 whitelist.json
 /world*
+config/jei/world/server/*
