@@ -1,3 +1,24 @@
+# version 1.3.0
+
+Added:
+- Ender Chests & Ender Tanks (Also ShetiPhianCore as a dependency)
+- Trash Cans
+- Trash Slot
+
+Changed:
+- You now have two head slots.
+
+Updated:
+- Guard Villagers
+- Oh the Biomes We've Gone
+- Particle Rain
+- Patchouli
+- Twilight's Flavour and Delight
+- Youkai's Homecoming
+
+Removed:
+- Smooth Swapping
+
 # version 1.2.0
 
 Added:
